@@ -1,0 +1,16 @@
+img {
+  image-rendering: center;
+}
+h1 {
+  text-align: center;
+}
+body {
+  background-color: blanchedalmond;
+}
+
+#college-link {
+  color: brown;
+}
+.myDiv {
+  color: black;
+}
